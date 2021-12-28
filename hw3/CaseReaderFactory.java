@@ -1,4 +1,3 @@
-// Zhenxi Wang zhenxiw
 package hw3;
 
 public class CaseReaderFactory {
