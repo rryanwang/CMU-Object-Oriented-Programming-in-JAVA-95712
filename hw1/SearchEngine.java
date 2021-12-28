@@ -1,4 +1,4 @@
-//Ryan Wang zhenxiw
+
 package hw1;
 
 import java.util.Arrays;
