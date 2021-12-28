@@ -1,4 +1,3 @@
-//Zhenxi Wang zhenxiw
 package exam2;
 
 public abstract class Message implements Encryptable{
