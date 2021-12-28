@@ -1,4 +1,3 @@
-// Zhenxi Wang zhenxiw
 package exam3;
 
 import java.io.File;
