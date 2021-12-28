@@ -1,4 +1,3 @@
-// Zhenxi Wang zhenxiw
 package hw3;
 
 import java.util.List;
