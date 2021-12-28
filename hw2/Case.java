@@ -1,4 +1,3 @@
-// Zhenxi Wang zhenxiw
 package hw2;
 
 import javafx.beans.property.StringProperty;
