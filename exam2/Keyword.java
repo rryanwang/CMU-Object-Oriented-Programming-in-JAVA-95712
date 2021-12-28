@@ -1,4 +1,3 @@
-//Zhenxi Wang zhenxiw
 package exam2;
 
 import java.lang.StringBuilder;
